@@ -1,0 +1,9 @@
+.musicCard {
+  width: fit-content;
+  padding: 16px;
+  border: rgba(83, 79, 79, 0.564) 1px solid;
+  box-shadow: 3px 0px 0px 0px rgba(0, 0, 0, 0.2);
+  & > img {
+    max-width: 300px;
+  }
+}
